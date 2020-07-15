@@ -3,12 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/assets/images/creep.png": "5ffeaea0efd6cee71b82a4bf48e186d5",
+  "assets/assets/images/match-phone.png": "ac4cb81ece6ce7edb147cb4929fc29a3",
+"assets/assets/images/creep.png": "5ffeaea0efd6cee71b82a4bf48e186d5",
 "assets/assets/images/chat.png": "b8993f6fbb2cde06d5815bb220754eea",
 "assets/assets/images/match-page.png": "cc0cbbda5e3a0e5a47aba0d2f507777b",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/NOTICES": "27912c9fb76771893b537954c0625b88",
-"assets/AssetManifest.json": "c364811484577314860fa90a76fce1ec",
+"assets/AssetManifest.json": "89f760d48917a5b83610c32f38023bb1",
 "assets/fonts/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
 "assets/fonts/Eczar-Regular.ttf": "c7ea37b1332eb3de9f29eaaf48152516",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
@@ -16,7 +17,7 @@ const RESOURCES = {
 "index.html": "2a1694a40b2a8c7d63fa1b3023497197",
 "/": "2a1694a40b2a8c7d63fa1b3023497197",
 "manifest.json": "0b7fe44839600f1f1e06e0005c88f54e",
-"main.dart.js": "79bf62eeba048c6ba021b116c5d9d34f"
+"main.dart.js": "bc8c7ad9fc67aceca90003f9d71c7bb6"
 };
 
 // The application shell files that are downloaded before a service worker can
