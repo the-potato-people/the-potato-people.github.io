@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/assets/images/match-phone.png": "b5437415cb6ff00a72372d5acc56e3ce",
+  "assets/assets/images/match-phone.png": "ce9ef79a2b245459104e43497bb3fac5",
 "assets/assets/images/auth.png": "2df3079310c27fea6c37abd3d2e31622",
 "assets/assets/images/creep.png": "5ffeaea0efd6cee71b82a4bf48e186d5",
 "assets/assets/images/chat.png": "b23a8fddc6bd699af98bf61b9ac033d1",
