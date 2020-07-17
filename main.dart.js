@@ -47012,26 +47012,26 @@ N:function(a){return new S.qk(new F.tk(null),"Hiccup",X.a3V(null,"Raleway"),!1,n
 F.tk.prototype={
 aK:function(){return new F.CE($.bQ(),$.a7I(),C.n)}}
 F.CE.prototype={
-N:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="assets/images/auth.png",d=F.ce(a,!1)
-$.aaT=d
-d=d.a
-t=$.bV=d.a
-d=$.c6=d.b
+N:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=F.ce(a,!1)
+$.aaT=e
+e=e.a
+t=$.bV=e.a
+e=$.c6=e.b
 $.Ra=t/1600
-s=d/801
+s=e/801
 $.bd=s
-if(t>d)r=g.Qh()
+if(t>e)r=g.Qh()
 else{q=$.hT()
 s=20*s
-t=M.ab(f,new T.f6(C.Y,f,f,new T.ap(new V.M(s,s,s,s),g.Ts(),f),f),q,f,f,d,f,f,t)
-d=$.bV
+t=M.ab(f,new T.f6(C.Y,f,f,new T.ap(new V.M(s,s,s,s),g.Ts(),f),f),q,f,f,e,f,f,t)
+e=$.bV
 q=$.c6
 s=$.hT()
 p=$.Ra
 o=new P.aB(25,25)
 o=S.la(f,new K.aS(o,o,o,o),H.a([new O.f5(5,P.aT(C.W.aB(127.5),158,158,158),new P.m(0,3),7)],u.ec),f,f,f,C.ac)
 n=new P.aB(25,25)
-d=M.ab(f,M.ab(C.Y,new T.ap(new V.M(0*p,0,0,0),M.ab(f,T.f8(new K.aS(n,n,n,n),U.h2(new L.dg("assets/images/match-phone.png"))),f,f,o,q*4/5,f,f,f),f),f,f,f,f,f,f,f),s,f,f,q,f,f,d)
+e=M.ab(f,M.ab(C.Y,new T.ap(new V.M(0*p,0,0,0),M.ab(f,T.f8(new K.aS(n,n,n,n),U.h2(new L.dg("assets/images/match-phone.png"))),f,f,o,q*4/5,f,f,f),f),f,f,f,f,f,f,f),s,f,f,q,f,f,e)
 q=$.bV
 s=$.c6
 o=$.hT()
@@ -47058,7 +47058,7 @@ m=20*$.bd
 k=M.ab(f,new T.ap(new V.M(n,k/10,n,0),M.ab(f,T.d_(H.a([l,new T.ap(new V.M(0,m,0,0),L.bl("Our algorithm lifts all the heavy tasks off your shoulders. You just have to talk.",f,f,f,A.b0(f,f,f,f,f,f,f,f,f,f,f,m,f,f,f,f,!0,f,f,f,f,f,f),C.H),f)],i),C.P),f,f,f,k/2,f,f,o*4/5),f),f,f,f,f,f,f,f)
 m=$.c6
 l=new P.aB(20,20)
-o=M.ab(f,T.d_(H.a([k,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,m/10),M.ab(f,T.f8(new K.aS(l,l,l,l),U.h2(new L.dg(e))),f,f,f,m/2,f,f,f),f),f,f,f,m,f,f,f)],i),C.P),j,f,f,f,f,f,o)
+o=M.ab(f,T.d_(H.a([k,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,m/10),M.ab(f,T.f8(new K.aS(l,l,l,l),U.h2(new L.dg("assets/images/auth.png"))),f,f,f,m/2,f,f,f),f),f,f,f,m,f,f,f)],i),C.P),j,f,f,f,f,f,o)
 j=$.bV
 m=$.bQ()
 l=$.c6
@@ -47078,17 +47078,17 @@ h=20*$.bd
 n=M.ab(f,new T.ap(new V.M(l,n/10,l,0),M.ab(f,T.d_(H.a([k,new T.ap(new V.M(0,h,0,0),L.bl("They only got one shot at your photos. If you're not comfortable yet, they're blocked.",f,f,f,A.b0(f,f,f,f,f,f,f,f,f,f,f,h,f,f,f,f,!0,f,f,f,f,f,f),C.H),f)],i),C.P),f,f,f,n/2,f,f,m*4/5),f),f,f,f,f,f,f,f)
 h=$.c6
 k=new P.aB(20,20)
-m=M.ab(f,T.d_(H.a([n,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,h/10),M.ab(f,T.f8(new K.aS(k,k,k,k),U.h2(new L.dg(e))),f,f,f,h/2,f,f,f),f),f,f,f,h,f,f,f)],i),C.P),p,f,f,f,f,f,m)
+m=M.ab(f,T.d_(H.a([n,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,h/10),M.ab(f,T.f8(new K.aS(k,k,k,k),U.h2(new L.dg("assets/images/creep.png"))),f,f,f,h/2,f,f,f),f),f,f,f,h,f,f,f)],i),C.P),p,f,f,f,f,f,m)
 p=$.bV
 h=$.c6
 k=$.hT()
 n=$.bd
 n=L.bl("Releasing the Early Access on 1st August, 2020",f,f,f,A.b0(f,f,$.bQ(),f,f,f,f,f,f,f,f,40*n,f,f,f,f,!0,f,f,f,f,f,f),C.H)
 l=20*$.bd
-r=B.a3_(H.a([t,d,q,s,o,j,m,M.ab(f,new T.f6(C.Y,f,f,T.d_(H.a([n,new T.ap(new V.M(0,l,0,0),L.bl("Request to get your hands on. Slots are limited.",f,f,f,A.b0(f,f,$.bQ(),f,f,f,f,f,f,f,f,l,f,f,f,f,!0,f,f,f,f,f,f),C.H),f)],i),C.P),f),k,f,f,h,f,f,p)],i),f)}d=$.hT()
+r=B.a3_(H.a([t,e,q,s,o,j,m,M.ab(f,new T.f6(C.Y,f,f,T.d_(H.a([n,new T.ap(new V.M(0,l,0,0),L.bl("Request to get your hands on. Slots are limited.",f,f,f,A.b0(f,f,$.bQ(),f,f,f,f,f,f,f,f,l,f,f,f,f,!0,f,f,f,f,f,f),C.H),f)],i),C.P),f),k,f,f,h,f,f,p)],i),f)}e=$.hT()
 t=g.Rz()
 s=$.hT()
-return new M.rn(new E.op(t,0,s,new P.Z(1/0,56),f),r,d,f)},
+return new M.rn(new E.op(t,0,s,new P.Z(1/0,56),f),r,e,f)},
 Qh:function(){var t,s,r,q,p=null,o=F.a07(),n=$.bV,m=$.c6,l=$.hT(),k=20*$.bd,j=this.Tr(),i=$.Ra,h=$.c6,g=new P.aB(25,25)
 g=S.la(p,new K.aS(g,g,g,g),H.a([new O.f5(5,P.aT(C.W.aB(127.5),158,158,158),new P.m(0,3),7)],u.ec),p,p,p,C.ac)
 t=new P.aB(25,25)
