@@ -47012,7 +47012,7 @@ N:function(a){return new S.qk(new F.tk(null),"Hiccup",X.a3V(null,"Raleway"),!1,n
 F.tk.prototype={
 aK:function(){return new F.CE($.bQ(),$.a7I(),C.n)}}
 F.CE.prototype={
-N:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="assets/images/chat.png",d=F.ce(a,!1)
+N:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e="assets/images/auth.png",d=F.ce(a,!1)
 $.aaT=d
 d=d.a
 t=$.bV=d.a
@@ -47068,7 +47068,7 @@ p=20*$.bd
 l=M.ab(f,new T.ap(new V.M(k,l/10,k,0),M.ab(f,T.d_(H.a([n,new T.ap(new V.M(0,p,0,0),L.bl("Your photos are hidden until you both are comfortable sharing them.",f,f,f,A.b0(f,f,f,f,f,f,f,f,f,f,f,p,f,f,f,f,!0,f,f,f,f,f,f),C.H),f)],i),C.P),f,f,f,l/2,f,f,j*4/5),f),f,f,f,f,f,f,f)
 p=$.c6
 n=new P.aB(20,20)
-j=M.ab(f,T.d_(H.a([l,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,0),M.ab(f,T.f8(new K.aS(n,n,n,n),U.h2(new L.dg(e))),f,f,f,p/2,f,f,f),f),f,f,f,p*9/10,f,f,f)],i),C.P),m,f,f,f,f,f,j)
+j=M.ab(f,T.d_(H.a([l,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,0),M.ab(f,T.f8(new K.aS(n,n,n,n),U.h2(new L.dg("assets/images/chat.png"))),f,f,f,p/2,f,f,f),f),f,f,f,p*9/10,f,f,f)],i),C.P),m,f,f,f,f,f,j)
 m=$.bV
 p=$.bQ()
 n=$.c6
@@ -47078,7 +47078,7 @@ h=20*$.bd
 n=M.ab(f,new T.ap(new V.M(l,n/10,l,0),M.ab(f,T.d_(H.a([k,new T.ap(new V.M(0,h,0,0),L.bl("They only got one shot at your photos. If you're not comfortable yet, they're blocked.",f,f,f,A.b0(f,f,f,f,f,f,f,f,f,f,f,h,f,f,f,f,!0,f,f,f,f,f,f),C.H),f)],i),C.P),f,f,f,n/2,f,f,m*4/5),f),f,f,f,f,f,f,f)
 h=$.c6
 k=new P.aB(20,20)
-m=M.ab(f,T.d_(H.a([n,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,h/10),M.ab(f,T.f8(new K.aS(k,k,k,k),U.h2(new L.dg("assets/images/auth.png"))),f,f,f,h/2,f,f,f),f),f,f,f,h,f,f,f)],i),C.P),p,f,f,f,f,f,m)
+m=M.ab(f,T.d_(H.a([n,M.ab(f,new T.ap(new V.M(0,$.bV/10,0,h/10),M.ab(f,T.f8(new K.aS(k,k,k,k),U.h2(new L.dg(e))),f,f,f,h/2,f,f,f),f),f,f,f,h,f,f,f)],i),C.P),p,f,f,f,f,f,m)
 p=$.bV
 h=$.c6
 k=$.hT()
