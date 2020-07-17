@@ -4,12 +4,13 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "assets/assets/images/match-phone.png": "ac4cb81ece6ce7edb147cb4929fc29a3",
+"assets/assets/images/auth.png": "3dfc6eb8adb90053a755fb7fb24b9b49",
 "assets/assets/images/creep.png": "5ffeaea0efd6cee71b82a4bf48e186d5",
-"assets/assets/images/chat.png": "b8993f6fbb2cde06d5815bb220754eea",
-"assets/assets/images/match-page.png": "cc0cbbda5e3a0e5a47aba0d2f507777b",
+"assets/assets/images/chat.png": "b23a8fddc6bd699af98bf61b9ac033d1",
+"assets/assets/images/match-page.png": "80f95837e4f54d42ad2a8b218879a74e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
 "assets/NOTICES": "27912c9fb76771893b537954c0625b88",
-"assets/AssetManifest.json": "89f760d48917a5b83610c32f38023bb1",
+"assets/AssetManifest.json": "4a7ed35056572c29d73bdd1e687d73a9",
 "assets/fonts/Raleway-Regular.ttf": "9942588a6c84f959132556d99e83ded6",
 "assets/fonts/Eczar-Regular.ttf": "c7ea37b1332eb3de9f29eaaf48152516",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
@@ -17,7 +18,7 @@ const RESOURCES = {
 "index.html": "2a1694a40b2a8c7d63fa1b3023497197",
 "/": "2a1694a40b2a8c7d63fa1b3023497197",
 "manifest.json": "0b7fe44839600f1f1e06e0005c88f54e",
-"main.dart.js": "2f9cf043c5a11e18a22f1ba8572f92f6"
+"main.dart.js": "5091b1e8efc52ea73de03c1ad5537f70"
 };
 
 // The application shell files that are downloaded before a service worker can
