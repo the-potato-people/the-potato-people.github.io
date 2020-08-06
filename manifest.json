@@ -1,11 +1,11 @@
 {
-    "name": "landingpage",
-    "short_name": "landingpage",
+    "name": "Hiccup",
+    "short_name": "Hiccup",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Landing page of Hiccup",
+    "description": "The smarter dating app",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
